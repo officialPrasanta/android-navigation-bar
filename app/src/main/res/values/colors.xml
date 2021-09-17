@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#252125</color>
+    <color name="PrimaryColor">#EE82EE</color>
+    <color name="PrimaryVariant">#E19DE1</color>
+    <color name="elevation1dp">#0DFFFFFF</color>
+    <color name="elevation2dp">#12FFFFFF</color>
+    <color name="elevation3dp">#14FFFFFF</color>
+    <color name="elevation4dp">#17FFFFFF</color>
+    <color name="elevation6dp">#1CFFFFFF</color>
+    <color name="elevation8dp">#1FFFFFFF</color>
+    <color name="elevation12dp">#24FFFFFF</color>
+    <color name="elevation16dp">#26FFFFFF</color>
+    <color name="elevation24dp">#29FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="PC4elevation">#17EE82EE</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="teal200">#80CBC4</color>
+    <color name="teal700">#00796B</color>
+    <color name="black">#000000</color>
+</resources>
